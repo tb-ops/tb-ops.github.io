@@ -7,4 +7,4 @@ Repository Description: This is a repository to hold assignments.
 # About Me
 ## **Hobbies**
 ## _Favorite_ Websites
-1. Do you enjoy scrolling at all of the endless junk you could possibly **buy**? Look no more as [amazon.com](amazon.com)
+1. Do you enjoy scrolling at all of the endless junk you could possibly **buy**? Look no more as [amazon.com](www.amazon.com)
