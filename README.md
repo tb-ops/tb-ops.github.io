@@ -5,5 +5,5 @@ Github Account Description: This is a school account.
 Repository Description: This is a repository to hold assignments.
 
 # About Me
-## Hobbies
+## **Hobbies**
 ## _Favorite_ Websites
