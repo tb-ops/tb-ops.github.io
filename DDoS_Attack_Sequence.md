@@ -7,4 +7,4 @@ sequenceDiagram
 
 
 ```
-Flowchart LR A-->B
+participant Attacker --> participant BotNet
