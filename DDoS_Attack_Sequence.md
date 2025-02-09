@@ -7,3 +7,4 @@ sequenceDiagram
 
 
 ```
+Flowchart LR A-->B
